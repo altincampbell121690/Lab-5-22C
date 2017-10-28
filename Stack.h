@@ -2,12 +2,11 @@
  * Stack.h
  *
  *  Created on: Oct 26, 2017
- *      Author: Ewreck
+ *      Author: Altin and Erick
  */
 
- #ifndef STACK_H_
- #define STACK_H_
-
+ #pragma once
+ 
  #include <cstddef> //for NULL
  #include <iostream>
  #include <cstdlib>
@@ -72,7 +71,7 @@
  	int size;
  };
 
- #endif /* STACK_H_ */
+ //#endif /* STACK_H_ */
 
  /**************************************/
  /* #include <iostream>
